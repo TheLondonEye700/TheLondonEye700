@@ -3,7 +3,7 @@
 ## ⚡ About me
 I’m a Bachelor Student at School of Electrical Engineering, [Aalto University](https://www.aalto.fi/en)
 
-I am on the exciting road to be come a full-time **Front-End Developer**
+I am on the exciting road to become a full-time **Front-End Developer**
 
 Passionate about new technologies and problem-solving
 
