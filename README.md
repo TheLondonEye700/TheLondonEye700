@@ -11,9 +11,9 @@ Passionate about new technologies and problem-solving
 
 ## ⚡ Skills
 
-- Front-End: `HTML` `SCSS` `Bootstrap` `ReactJS` 
-- Back-End: `Deno`
-- Database: `SQL`
+- Front-End: `HTML` `SCSS` `ReactJS` 
+- Back-End: `Deno` `NodeJS` `ExpressJS` 
+- Database: `SQL` `MongoDB`
 
 ## ⚡ Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLondonEye700&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
