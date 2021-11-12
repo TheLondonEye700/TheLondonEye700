@@ -1,17 +1,19 @@
-# Hi there!
+# Hi there! Ngoc's here
+
+[![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:nguyenangoc5@gmail.com)
+[![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://linkedin.com/in/quankun)](https://www.linkedin.com/in/ngoc-nguyen-225288218/)
 
 ## ⚡ About me
-I’m a Bachelor Student at School of Electrical Engineering, [Aalto University](https://www.aalto.fi/en)
+I’m a BE student at [Aalto University](https://www.aalto.fi/en), currently on an exciting journey to become a **Full-Stack Developer**
 
-I am on the exciting road to become a full-time **Front-End Developer**
-
-Passionate about new technologies and problem-solving
+Passionate about new technologies and solving coding problems
 
 🔭 **Goals for this year:** Make more fun and useful website, designed by myself!
 
+
 ## ⚡ Skills
 
-- Front-End: `HTML` `SCSS` `ReactJS` 
+- Front-End: `HTML` `SCSS` `ReactJS` `Redux` 
 - Back-End: `Deno` `NodeJS` `ExpressJS` 
 - Database: `SQL` `MongoDB`
 
