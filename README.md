@@ -1,6 +1,5 @@
 <div style="text-align: center;">
   <img src='https://media.giphy.com/media/9JDSX9Mpwvir8YoP2I/giphy.gif' width='200px' style='display: inline-block; vertical-align: middle;'>
-  <h3 style='display: inline-block; vertical-align: middle; margin-left: 10px;'> Hi there! Welcome to my Github page.</h3>
 </div>
 
 # Hi there! Ngoc's here
