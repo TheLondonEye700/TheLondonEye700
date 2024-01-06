@@ -24,4 +24,4 @@ Love to discuss Web3 and solve coding problems
 ## ⚡ Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLondonEye700&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLondonEye700&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLondonEye700&count_private=true)](https://github.com/anuraghazra/github-readme-stats) --->
