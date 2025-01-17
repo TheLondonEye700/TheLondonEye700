@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://linkedin.com/in/quankun)](https://www.linkedin.com/in/ngoc-nguyen-225288218/)
 
 ## ⚡ About me
-I’m a BE student at [Aalto University](https://www.aalto.fi/en), currently on an exciting journey to become a **Full-Stack Developer**
+I’m a student at [Aalto University](https://www.aalto.fi/en), a enabler **Full-Stack Developer**
 
 Love to discuss Web3 and solve coding problems
 
